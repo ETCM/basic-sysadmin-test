@@ -14,6 +14,8 @@ Q2) Feedback
 Describe how you would ensure timely feedback in the event that an asset in
 production is blacklisted.
 
+I would immediately move to contact the blacklisting authority and request an explanation. I would also immediately check the asset to make sure that any possible compromises on the asset are corrected. Once mitigation has occurred, I would request to be moved off of the blacklist. If this takes an unacceptable amount of time then an alternative such as moving the asset to a different address and modifying DNS records may need to occur in the interim. This is only if there is no foreseeable compromise. 
+
 Q3) Enterprise Integration
 ==========================
 How would you ensure connectivity between an order-processing asset and an
