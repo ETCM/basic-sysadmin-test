@@ -18,6 +18,11 @@ The OSI layers can be used in everyday network troubleshooting to narrow down th
 
 Q2) Cisco/Juniper/Equivalent: Pick one and explain how to configure a VLAN.
 ---------------------------------------------------------------------------
+1. Log in to the switch
+2. Put switch in configuration mode
+3. Create a new VLAN with associated ID
+4. Assign the ports you'd like associated with the VLAN
+5. Enable access of ports to the new VLAN
 
 Q3) What is the difference between an application switch and a layer-2/3 switch?
 --------------------------------------------------------------------------------
@@ -25,6 +30,9 @@ A layer 2/3 switch is typically only used for functions such as switching, routi
 
 Q4) How does virtualization interact with network design?
 ---------------------------------------------------------
+Virtualization can change the needs within your network and it's overall design. A SAN or another form of storage may be needed within the network to allow for failover services in case a virtual host goes down. Cabling grade and network device speeds may need to increase to allow for quicker transfer speeds. 
+
+Virtulization can also remove the need for dedicated network hardware such as firewalls and routers. Many vendors now provide virtual versions of their hardware that can be placed on a virtual host and used as if it they were "real" devices.
 
 
 Q5) TCP Handshake. What is it?
