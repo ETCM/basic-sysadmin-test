@@ -5,7 +5,8 @@ Answer the following questions.
 
 Q1) What is the difference between a RAID adapter and an HBA?
 -------------------------------------------------------------
-
+Host bus adapter (HBA) is a device performs I/O between a server and storage devices. It physically connects the two as well.
+A RAID adapter is essentially a RAID controller. It's primary purpose is to allow a computer to view multiple disk as single logical disks for purposes such as redudancy. 
 
 Q2) Switch, Hub, Router. Compare and Contrast.
 ----------------------------------------------
