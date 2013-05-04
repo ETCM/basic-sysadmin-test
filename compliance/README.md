@@ -36,11 +36,11 @@ private profile information is in the post.
 
 Bullet points will suffice for this.
 
--Create bit level copy of the system
--Verify if any data is actually insecure
--Copy all log data such as Apache Access Logs and MySQL logs
--Set up monitoring for the particular user within reason
--Update all software to the current versions and patch levels
+- Create bit level copy of the system
+- Verify if any data is actually insecure
+- Copy all log data such as Apache Access Logs and MySQL logs
+- Set up monitoring for the particular user within reason
+- Update all software to the current versions and patch levels
 
 
 
