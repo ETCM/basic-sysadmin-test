@@ -22,6 +22,8 @@ A layer-4 switch could be key to a DR plan because it allows the load balancing 
 
 Layer-7 logic is critical to restoring business functions on critical applications. Without the presence of this logic a company cannot perform the majority of it's duties.
 
+Transparent failure refers to a situation in which a device fails but it is not noticed by end user because the failover system takes over services without interruption. This is a great asset within a disater recovery scenario since critical systems can continue to stay operational and downtime is non existent.
+
 Q3) Disaster Recovery Practice
 ------------------------------
 How does production deployment relate to DR? Describe the concerns with
