@@ -46,4 +46,4 @@ Bullet points will suffice for this.
 
 Q3) Describe how distributions like RHEL complicate compliance issues.
 ----------------------------------------------------------------------
-
+The only complications I can see is that these distributions may need to be tailored to comply with different types compliances and their rules. It may not support all requirements that a particular compliance expects.
