@@ -22,3 +22,5 @@ How would you ensure connectivity between an order-processing asset and an
 external credit card processing system? If you have never worked with such
 a system, describe another enterprise integration issue from your experience.
 
+I have no enterprise integration experience to reference for this question.
+
