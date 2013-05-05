@@ -11,6 +11,12 @@ Given a collection of internal assets which are partitioned into several classes
 
 Describe in bullet points how you would monitor such a system. Include a set of health metrics and targets.
 
+- Install programs such as Nagios and Nagios Fusion for monitoring of these systems
+- Monitor access requests from restricted targets
+- Monitor network connectivity and service heartbeats
+- Monitor connectivity to the enterprise peer
+- Monitor the critical services and notify appropriate parties if services go down
+
 Q3) In Linux, how do you identify what resources a given process has?
 ---------------------------------------------------------------------
 Using ps aux should show the associated resources and processes.
