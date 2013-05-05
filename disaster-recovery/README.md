@@ -18,11 +18,11 @@ is a transparent failure?
 
 During the disaster recovery phase systems must be returned to operational status in an acceptable amount of time. DNS can play a part in this both internally and externally. Internally, any DNS servers that are down can cause internal resource resolutions issues. Applications may cease to function if they can not resolve any hostnames that may be held on servers that are not functional. Externally, it must be determined when Internet service will be restored. If there is a failover is improperly configured or non-existent then external records may need to be changed to point to alternative sites or a backup provider to ensure external facing resolution can still take place.
 
-A layer-4 switch could be key to a DR plan because it allows the load balancing function to be configured for failover. In the event a disater were to occur, a layer 4 switch could potentially keep the network functioning off another service providers network.
+A layer-4 switch could be key to a DR plan because it allows the load balancing function to be configured for failover. In the event a disaster were to occur, a layer 4 switch could potentially keep the network functioning off another service providers network.
 
 Layer-7 logic is critical to restoring business functions on critical applications. Without the presence of this logic a company cannot perform the majority of it's duties.
 
-Transparent failure refers to a situation in which a device fails but it is not noticed by end user because the failover system takes over services without interruption. This is a great asset within a disater recovery scenario since critical systems can continue to stay operational and downtime is non existent.
+Transparent failure refers to a situation in which a device fails but it is not noticed by end user because the failover system takes over services without interruption. This is a great asset within a disaster recovery scenario since critical systems can continue to stay operational and downtime is non existent.
 
 Q3) Disaster Recovery Practice
 ------------------------------

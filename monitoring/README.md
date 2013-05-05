@@ -3,7 +3,7 @@ Production Monitoring
 
 Q1) A service is repeatedly crashing. How do you identify possible causes?
 --------------------------------------------------------------------------
-Using the dmesg | grep combined command should be helpful in allowing me to find any issues that may have occurred in the kernal. Checking the information in the logs of the service that crashed would also be a good start.
+Using the dmesg | grep combined command should be helpful in allowing me to find any issues that may have occurred in the kernel. Checking the information in the logs of the service that crashed would also be a good start.
 
 Q2) Scenario:
 -------------

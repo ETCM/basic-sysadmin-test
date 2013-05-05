@@ -15,7 +15,7 @@ This list is suggestive, not restrictive. Include details pertaining to system
 configuration, auditing and verification.
 
 PCI-DSS
-I have contracted for a couple of companies that are not currently PCI compliant but hope to obtain this distiction. In doing so I have participated in project that segment non-authorized systems from accessing restricted resources such as credit cards and PII. Doing so included creating VLAN and segmenting the networks off from each other in order to keep within strict budget constraints. Implementation of firewalls with quasi-DLP functionality have also been attempted to prevent credit card information and personal information such as social security numbers from leaving the network.
+I have contracted for a couple of companies that are not currently PCI compliant but hope to obtain this distinction. In doing so I have participated in project that segment non-authorized systems from accessing restricted resources such as credit cards and PII. Doing so included creating VLAN and segmenting the networks off from each other in order to keep within strict budget constraints. Implementation of firewalls with quasi-DLP functionality have also been attempted to prevent credit card information and personal information such as social security numbers from leaving the network.
 
 These environments have also been non-formally assessed to see what vulnerabilities and risk exist. The primary goal of these assessments were to bring these issues to the attention of the leadership within these companies. 
 

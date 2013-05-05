@@ -1,4 +1,4 @@
-Networking Architecture, Design and Maintainence
+Networking Architecture, Design and Maintenance
 ================================================
 
 Please answer the following questions.
@@ -32,7 +32,7 @@ Q4) How does virtualization interact with network design?
 ---------------------------------------------------------
 Virtualization can change the needs within your network and it's overall design. A SAN or another form of storage may be needed within the network to allow for failover services in case a virtual host goes down. Cabling grade and network device speeds may need to increase to allow for quicker transfer speeds. 
 
-Virtulization can also remove the need for dedicated network hardware such as firewalls and routers. Many vendors now provide virtual versions of their hardware that can be placed on a virtual host and used as if it they were "real" devices.
+Virtualization can also remove the need for dedicated network hardware such as firewalls and routers. Many vendors now provide virtual versions of their hardware that can be placed on a virtual host and used as if it they were "real" devices.
 
 
 Q5) TCP Handshake. What is it?
@@ -40,7 +40,7 @@ Q5) TCP Handshake. What is it?
 The TCP handshake is the process used by TCP packets during transmission. It is a protocol that must be followed for establishment of a connection between a client and server. 
 
 The originator sends a SYN packet to the destination
-The desitnation subject responds by sending a SYN-ACK packet back to the originator
+The destination subject responds by sending a SYN-ACK packet back to the originator
 The originator sends an ACK to the destination for acknowledgement
 
 Failure of this protocol can cause retransmission of packets.

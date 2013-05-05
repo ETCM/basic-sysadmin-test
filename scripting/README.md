@@ -16,7 +16,7 @@ about them. Describe your experiences with some or all of them.
 
 - Puppet
 
-  A tool that is used for configration management of Linux and Windows based systems. It also provides the ability to
+  A tool that is used for configuration management of Linux and Windows based systems. It also provides the ability to
   perform patch management, provisioning, reporting and task automation. 
 
   You should care about this tool because it offers a robust feature set that can allow for the management of many
@@ -25,7 +25,7 @@ about them. Describe your experiences with some or all of them.
 
 - Chef
   
-  A framework for automating infrastructure. Like puppet this framwork allows for the deployment of servers and  
+  A framework for automating infrastructure. Like puppet this framework allows for the deployment of servers and  
   applications. It allows for the centralization of configurations. This framework is designed to be able to work with 
   cloud hosted services as well as both physical and virtual systems.
 

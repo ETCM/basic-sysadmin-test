@@ -6,7 +6,7 @@ Answer the following questions.
 Q1) What is the difference between a RAID adapter and an HBA?
 -------------------------------------------------------------
 Host bus adapter (HBA) is a device performs I/O between a server and storage devices. It physically connects the two as well.
-A RAID adapter is essentially a RAID controller. It's primary purpose is to allow a computer to view multiple disk as single logical disks for purposes such as redudancy. 
+A RAID adapter is essentially a RAID controller. It's primary purpose is to allow a computer to view multiple disk as single logical disks for purposes such as redundancy. 
 
 Q2) Switch, Hub, Router. Compare and Contrast.
 ----------------------------------------------
@@ -18,7 +18,7 @@ A router is a layer-3 device that passes traffic similar to a hub and switch. Ro
 
 Q3) What matters when deciding between hardware and virtualized machines?
 -------------------------------------------------------------------------
-When considering whether to use a hardware or virtulized platform the main factors to take in to account are the number of servers needed, the cost of hardware, the amount of physical storage needed, any compliance issues that require physical seperation of assets and factors such as high availability(SAN).
+When considering whether to use a hardware or virtualized platform the main factors to take in to account are the number of servers needed, the cost of hardware, the amount of physical storage needed, any compliance issues that require physical separation of assets and factors such as high availability(SAN).
 
 Virtualization can save money in power costs and hardware but may not always be the best solution if the environment needs dedicated processing power.
 
