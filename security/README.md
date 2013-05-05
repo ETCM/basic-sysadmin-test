@@ -21,6 +21,11 @@ Certificate authentication uses a public key to sign a certificate. Certificates
 
 Q4) How do you enable certificate authentication in Apache?
 -----------------------------------------------------------
+1 Create a Java Key Store that has the self-signed certificate you will be using
+2 Modify the server.xml file to have parameters matching the parameters of the Java Key Store
+3 Create a Certificate Authority and an associated Java Key Store for the CA
+4 Modify the server.xml file so that the truststoreFile attribute is associated with the CA that was created. Change the clientAuth attribute to true to enable the feature.
+
 
 Q5) How do you handle a leaked key?
 -----------------------------------
