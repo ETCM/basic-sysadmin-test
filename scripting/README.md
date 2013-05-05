@@ -20,7 +20,7 @@ A tool that is used for configration management of Linux and Windows based syste
 You should care about this tool because it offers a robust feature set that can allow for the management of many systems within an enterprise environment. It is also a very good way to improve the efficiency among your system administrators and can greatly reduce the setup time for new server configuration.
 
 - Chef
-Another configuration tool 
+Another configuration tool that allows for application and system management.
 - Salt
 
 - Fabric
